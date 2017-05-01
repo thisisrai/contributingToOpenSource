@@ -1,5 +1,5 @@
 
-Project Specifications
+## Project Specifications
 
  - [] Choose 3-5 issues from one or more JavaScript packages/libraries/repos that will take you a week to complete. If you finish early choose other issues.
  - [] Open source project repo is forked.
@@ -17,3 +17,5 @@ Project Specifications
  - [] Code follows design principles of existing codebase.
 
 If changes are requested, make changes to get the PR merged.
+
+#### Open Source Projects 
